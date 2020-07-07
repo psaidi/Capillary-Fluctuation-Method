@@ -1,0 +1,12 @@
+1-copy domain and final in 2-crystallayers and 3-interfacefinder respectively
+2- run the code crystallayersatomeye.m code for the number of the files that you have
+3- use ovito to find the domain that the step is in that domain
+4- run the boundary4.m code from 5-Boundary folder (it is boundary4211.m for 211 orientation) this code determines the boundary between solid and liquid makes the height file and amplitude files
+
+
+
+
+
+Domain of step:		1.4 blue 1.1 red  0.9 yellow
+110-90-525
+11 to 14 and 58.7 to 61.7
